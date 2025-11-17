@@ -44,9 +44,3 @@ The focus was on **maximizing recall** due to high cost of fraud miss-detection.
 ---
 
 
-##  Dataset
-The dataset **creditcard.csv** is publicly available
-
-
----
-
